@@ -1,0 +1,11 @@
+C:\Users\infor\source\repos\PistaServicios\bin\Debug\net8.0\PistaServicios.deps.json
+C:\Users\infor\source\repos\PistaServicios\bin\Debug\net8.0\PistaServicios.dll
+C:\Users\infor\source\repos\PistaServicios\bin\Debug\net8.0\PistaServicios.pdb
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\PistaServicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\PistaServicios.AssemblyInfoInputs.cache
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\PistaServicios.AssemblyInfo.cs
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\PistaServicios.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\PistaServicios.dll
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\refint\PistaServicios.dll
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\PistaServicios.pdb
+C:\Users\infor\source\repos\PistaServicios\obj\Debug\net8.0\ref\PistaServicios.dll

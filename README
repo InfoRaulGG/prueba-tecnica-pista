@@ -1,0 +1,8 @@
+La solución como bien se indico, es lo más simple posible apoyandome en conceptos POO y código estructurado y reutilizable.
+He desarrollado una serie de modelos y he creado una clase estatica que guarda la pista llamada ControlPista donde expongo todos los metodos que deben usar en pista.
+
+Al no conocer la operativa de un surtidor al finalizar el suministro he decidido exponer un metodo aqui para terminar el suministro informando del importe finalmente suministrado (en todos los casos no se sabe hasta colgar la manguera)
+Obviamente creo que para este tema habria que perfilar mucho la operativa, creo que aqui una cola de mensaje estilo RabbitMQ podría ir bastante bien.
+
+Sobre si mi solución es mantenible y testable, creo que se podrían aplicar test unitarios, ya que las acciones estan encapsulada en sus actores, sobre si es mantenible, no es un ejemplo profesional, habría que modificar muchas cosas para hacerlo totalmente real, 
+como por ejemplo datos con redundancia, cola de mensajes, control de errores más profundo.
